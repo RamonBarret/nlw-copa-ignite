@@ -11,6 +11,8 @@
 
 Aplicação para participar de bolões da Copa do Mundo 2022.
 
+Projeto NLW Copa Ignite, desenvolvido para a criação de bolões tanto na Web quanto em Mobile (sendo o foco principal, utilizando React Native). Foi criado um servidor e com a tecnologia Prisma, junto com o instrutor modelei o banco de dados relacional para a aplicação.
+
 ## Preview - WEB
 <p align="center">
   <img alt="nlw-copa-ignite" src=".github/preview.png" width="100%">
