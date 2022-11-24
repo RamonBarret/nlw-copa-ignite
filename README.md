@@ -25,7 +25,7 @@ Projeto NLW Copa Ignite, desenvolvido para a criação de bolões tanto na Web q
 - [x] Schema validation utilizando o Zod
 - [x] Diagrama ERD (entidade-relacionamento):
 
-<img src=".github/assets/ERD.svg" alt="Diagrama ERD" height="800px"/>
+<img alt="Diagrama ERD" src=".github/ERD.svg" height="800px"/>
 
 ### Web
 
