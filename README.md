@@ -15,7 +15,7 @@ Projeto NLW Copa Ignite, desenvolvido para a criação de bolões tanto na Web q
 
 ## Preview - WEB
 <p align="center">
-  <img alt="nlw-copa-ignite" src=".github/preview.png" width="100%">
+  <img alt="nlw-copa-ignite" src=".github/preview.png">
 </p>
 
 ## ✨ Tecnologia
