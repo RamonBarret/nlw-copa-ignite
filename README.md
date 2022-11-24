@@ -18,7 +18,23 @@ Projeto NLW Copa Ignite, desenvolvido para a criação de bolões tanto na Web q
   <img alt="nlw-copa-ignite" src=".github/preview-web.png">
 </p>
 
-## ✨ Tecnologia
+### Back-end
+
+- [x] Criação de um bolão
+- [x] Contagem de bolões, usuários e palpites cadastrados
+- [x] Schema validation utilizando o Zod
+- [x] Diagrama ERD (entidade-relacionamento):
+
+<img src=".github/assets/ERD.svg" alt="Diagrama ERD" height="800px"/>
+
+### Web
+
+- [x] Criação de um bolão
+- [x] Exibição da quantidade de usuários, bolões, e palpites criados
+  
+### Mobile - corrigindo rederização 👨🏽‍💻
+
+## Tecnologias 🛠
 
 - [TypeScript](https://www.typescriptlang.org/)
 - [React](https://reactjs.org/)
@@ -27,11 +43,6 @@ Projeto NLW Copa Ignite, desenvolvido para a criação de bolões tanto na Web q
 - [Fastify](https://www.fastify.io/)
 - [Prisma](https://www.prisma.io/)
 - E muitas outras…
-
-## 🚀 Como executar
-
-Em todos os projetos, ao acessar a pasta, é preciso baixar os pacotes com o gerenciador de sua preferencia.
-
 
 ## 🔖 Layout
 
@@ -47,10 +58,4 @@ Esse projeto está sob a licença MIT. Veja o arquivo [LICENSE](LICENSE) para ma
 
 ---
 
-<p align="center">
-  Feito com 💜 by Rocketseat
-</p>
 
-<p align="center">
-  <a href="https://discord.gg/rocketseat">👉 Participe da nossa comunidade 👈</a>
-</p>
