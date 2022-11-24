@@ -11,6 +11,11 @@
 
 Aplicação para participar de bolões da Copa do Mundo 2022.
 
+## Preview - WEB
+<p align="center">
+  <img alt="nlw-copa-ignite" src=".github/preview.png" width="100%">
+</p>
+
 ## ✨ Tecnologia
 
 - [TypeScript](https://www.typescriptlang.org/)
